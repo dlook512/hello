@@ -2,4 +2,6 @@
 
 hi humans!
 
-hubot here, I like orange
+I like orange
+
+I am a novice,No English
